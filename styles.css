@@ -1,0 +1,30 @@
+body {
+   font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.main-header {
+   background-color: blue;
+   color: white;
+}
+
+.secondary-header {
+   background-color: green;
+   color: white;
+}
+
+.recipe-link {
+   font-size: 20px;
+}
+
+.recipe-image {
+   height: 300px;
+   width: 300px;
+}
+
+.ingredients {
+   font-weight: bold;
+}
+
+.steps {
+   font-size: 12px;
+}
